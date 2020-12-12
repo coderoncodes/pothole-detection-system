@@ -62,3 +62,4 @@ python predict.py
 wait for it to complete and check the directory
 To Exit console press ctrl+Z
 
+
